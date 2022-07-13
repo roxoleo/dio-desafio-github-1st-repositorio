@@ -1,6 +1,10 @@
 # Repositório do Desafio de Projeto sobre Git/GitHub da Dio
 Repositório criado para o Desafio de Projeto.
 
+<div>
+     <img align="right" alt="RoxoLéo-Hi" height="225" width="225" src="https://github.com/roxoleo/dio-desafio-github-1st-repositorio/blob/main/SantanderBootcamp.jpg">
+</div>
+
 - [J1.1 - Sintaxe Básica em JavaScript](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/J1.1-Sintaxe%20B%C3%A1sica%20em%20JavaScript)
 - [M0.0 - Conheça as Oportunidades da DIO.me](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M0.1-Conhe%C3%A7a%20as%20Oportunidades%20da%20Dio)
 - [M0.1 - Seja Protagonista neste Bootcamp da DIO.me](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M0.2-Seja%20Protagonista%20neste%20Bootcamp)
