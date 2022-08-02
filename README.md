@@ -12,6 +12,7 @@ Repositório criado para o Desafio de Projeto.
 - [M1.1 - Pensamento Computacional e Lógica de Programação](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M1.1-Pensamento%20Computacional)
 - [M1.2 - Introdução do Git e Giuhub (parte1)](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M1.2-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub)
 - [M1.3 - Criando Repositório no Git e github (parte2)](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M1.3-Reposit%C3%B3rio%20Git%26GitHub)
+- [M2.3 - Recriando InitialPage do Instagram](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M2.3-Recriando_InitialPage_Instagram/desafio-instagram-dio-main)
 
 
 ## Links Úteis
