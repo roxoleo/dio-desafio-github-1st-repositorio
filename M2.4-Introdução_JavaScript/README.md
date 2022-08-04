@@ -1,5 +1,5 @@
 # E, na continuação dos estudos... Aprendendo integrar JavaScript no HTML5, com Stephany Nusch! 😜👨‍💻
-<img align="right" alt="RoxoLéo-Programmer" height="187" width="249" src="https://github.com/roxoleo/dio-desafio-github-1st-repositorio/blob/main/M2.4-Introdu%C3%A7%C3%A3o_JavaScript/aula1-O_que_%C3%A9_JavaScript/programmer.gif">
+<img align="right" alt="RoxoLéo-Programmer" height="187" width="249" src="https://github.com/roxoleo/dio-desafio-github-1st-repositorio/blob/main/M2.4-Introdu%C3%A7%C3%A3o_JavaScript/programmer.gif">
 
 Repositório dedicado as aulas de Introdução ao JavaScript e Integração JS com HTML5 + CSS3.
 
