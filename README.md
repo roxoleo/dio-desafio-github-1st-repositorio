@@ -10,8 +10,8 @@ Repositório criado para o Desafio de Projeto.
 - [M0.1 - Seja Protagonista neste Bootcamp da DIO.me](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M0.2-Seja%20Protagonista%20neste%20Bootcamp)
 - [M0.3 - Mentoria #1 - Seja Bem-vindo ao Bootcamp DIO.me](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M0.3-Boas-Vindas%20Santander%20Bootcamp%20FullStack%20Developer)
 - [M1.1 - Pensamento Computacional e Lógica de Programação](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M1.1-Pensamento%20Computacional)
-- [M1.2 - Introdução do Git e Giuhub (parte1)](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M1.2-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub)
-- [M1.3 - Criando Repositório no Git e github (parte2)](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M1.3-Reposit%C3%B3rio%20Git%26GitHub)
+- [M1.2 - Introdução do Git e Github (parte1)](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M1.2-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub)
+- [M1.3 - Criando Repositório no Git e Github (parte2)](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M1.3-Reposit%C3%B3rio%20Git%26GitHub)
 - [M2.3 - Recriando InitialPage do Instagram](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M2.3-Recriando_InitialPage_Instagram/desafio-instagram-dio-main)
 - [M2.4 - Introdução ao JavaScript](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M2.4-Introdu%C3%A7%C3%A3o_JavaScript)
 
