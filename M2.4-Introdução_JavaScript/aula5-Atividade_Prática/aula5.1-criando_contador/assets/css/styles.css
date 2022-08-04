@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+/* @import serve para capturar material em outro repositório */
+
+* {
+    font-family: 'Open Sans', sans-serif;   /*fonte padrão Google capturada pelo @import */
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(177, 225, 255);
+}
+
+button {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid lightcoral;
+    background-color: rgb(241, 214, 214);
+    color: lightcoral;
+    font-size: 16pt;
+    font-weight: 600;
+    text-align: center;
+}
+
+#block{
+    display: flex;
+    background-color: darkgoldenrod;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    border: 3px double cadetblue;
+    border-radius: 5%;
+}
+
+#block .p{
+    border-radius: 5%;
+    border: 1px dashed;
+    background-color: cadetblue;
+}
+
+#counter {
+    display: flex;
+}
+
+#currentNumber {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16pt;
+    font-weight:bolder;
+}
