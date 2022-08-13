@@ -1,0 +1,45 @@
+no VSCode
+
+usando terminal gitbash
+
+1- npm init = criar projeto e package.json
+===
+package name: (dio-typescript)
+version: (1.0.0)
+description:
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author: SeuNome (https://github.com/nickname)
+license: (ISC) MIT
+About to write to C:\Users\nickname\Downloads\DIO-Bootcamp\DIO-TypeScript\package.json:
+
+{
+  "name": "dio-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SeuNome (https://github.com/nickname)",
+  "license": "MIT"
+}
+
+===
+2- npm install typescript --save-dev = cria as dependências do typescript no projeto (node_modules)
+saiba mais em: https://www.tutorialsteacher.com/typescript/typescript-environment-setup
+===
+3- npm install lite-server = biblioteca que procura index.html para testar qq biblioteca de componentes
+
+===
+4- incluir no package.json: start: lite-server
+"scripts": {
+	"start": "lite-server",
+	"test":...
+===
+5- criar index.html
+
+===
+6- criar app.js
