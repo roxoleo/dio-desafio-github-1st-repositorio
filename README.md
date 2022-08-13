@@ -18,4 +18,5 @@ Repositório criado para o Desafio de Projeto.
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/) <br>
+[Guia Básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) <br>
 [Emoji's para Github](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
