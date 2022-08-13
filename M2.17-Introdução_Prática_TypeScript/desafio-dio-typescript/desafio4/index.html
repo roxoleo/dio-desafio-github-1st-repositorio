@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt=br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[DIO] Desafio 4 - Typescript</title>
+    <script src="desafio4.js" defer></script>
+</head>
+<body>
+    <div style="display: flex;margin: 0 2rem;">
+        <div style="display: flex;flex-direction: column; width: 20vw;">
+            <div
+                style="display: flex; width: 300px; height: 100px; justify-content: space-between; flex-direction: column;">
+                <h2>[DIO] DESAFIO4 - TYPESCRIPT</h2>
+                <h3>Login</h3>
+                
+                    <input id="login" placeholder="Login" onchange="preencherLogin(event)" required>
+                    <input id="senha" placeholder="Senha" type="password" onchange="preencherSenha(event)" required>
+                    <input id="api-key" placeholder="Api Key" onchange="preencherApi()" required>
+    
+                    <button id="login-button" disabled>Login</button>
+            </div>
+
+            <section id="criaList" style="display: flex; margin-top: 160px; width: 300px; height: 100px; justify-content: space-between; flex-direction: column;display:none;">
+                <div>
+                    <h3>Criar listas de filmes</h3>
+                    
+                        <input type="text" id="name-list" placeholder="Nome da nova lista" required>
+                        <input type="text" id="description" placeholder="descrição" required>
+                        <button id="criaList-button">Cria Lista</button>
+                   
+                    
+                </div> 
+                
+                <div id="mostrar-Listas" style="margin-top:20px; display: none;">
+                    <div>
+                        <h3>Minhas listas criadas </h3>
+                        <button id="list-button">Ver minhas Listas (Atualizar)</button>
+                        <div id="minhas-listas" style="display: none;">
+                            <table class="table-Lista">
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Nome da Lista</th>
+                                        <th>Ações</th>
+                                    </tr>                            
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+    
+            </section>
+
+        </div>
+
+        <div id="search-container" style="margin: 0 2rem; display: none;width: 30vw;">
+            <h3>Pesquisa de filmes</h3>
+            <input id="search" placeholder="Escreva...">
+            <button id="search-button">Pesquisar Filme</button>
+
+            <section id="select-container" style="display: none;">
+                <div >
+                    <h4>Seleciona lista</h4>
+                    <select class="selectList" onchange="update()">
+                    </select>
+                </div><br>
+
+                <table class="table-filme">
+                    <thead>
+                        <tr>
+                            <th>Id </th>
+                            <th>Nome do Filme</th>
+                            <th>Ação</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </section>
+            
+        </div>
+
+        <section id="ver-lista" style="width: 50vw;display: none;">
+            <h3>Lista <span></span> </h3>
+            <h4></h4>
+            <table class="table-Ver-Lista">
+                <thead>
+                    <tr>
+                        <th>Nome do Filme</th>
+                        <th>Descrição</th>
+                        <th>Data</th>
+                        <th>Ação</th>
+                    </tr>                            
+                </thead>
+                <tbody></tbody>
+            </table>
+
+        </section>
+
+        
+
+    </div>
+
+    <template class="templatefilme">
+        <tr>
+            <td class="filmeId"></td>
+            <td class="filmeNome"></td>
+            <td>
+                <button class="adicionarFilmeBtn">Adicionar a lista</button>
+            </td>
+        </tr>
+    </template>
+
+    <template class="templateLista">
+        <tr>
+            <td class="listaIdTemplate"></td>
+            <td class="listaNomeTemplate"></td>
+            <td>
+                <button class="verListaBtn">Ver lista</button>
+                <button class="eliminarListaBtn">Eliminar</button>
+            </td>
+        </tr>
+    </template>
+
+    <template class="templateVerLista">
+        <tr>
+            <td class="verFilmeNome"></td>
+            <td class="verFilmeDescricao"></td>
+            <td class="verFilmeData"></td>
+            <td>
+                <button class="eliminarFilmeListBtn">Eliminar</button>
+            </td>
+        </tr>
+    </template>
+</body>
+
+</html>
