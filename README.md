@@ -14,6 +14,7 @@ Repositório criado para o Desafio de Projeto.
 - [M1.3 - Criando Repositório no Git e Github (parte2)](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M1.3-Reposit%C3%B3rio%20Git%26GitHub)
 - [M2.3 - Recriando InitialPage do Instagram](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M2.3-Recriando_InitialPage_Instagram/desafio-instagram-dio-main)
 - [M2.4 - Introdução ao JavaScript](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M2.4-Introdu%C3%A7%C3%A3o_JavaScript)
+- [M2.17 - Introdução Prática ao TypeScript](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M2.17-Introdu%C3%A7%C3%A3o_Pr%C3%A1tica_TypeScript)
 
 
 ## Links Úteis
