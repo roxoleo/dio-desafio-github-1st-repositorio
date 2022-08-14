@@ -15,6 +15,7 @@ Repositório criado para o Desafio de Projeto.
 - [M2.3 - Recriando InitialPage do Instagram](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M2.3-Recriando_InitialPage_Instagram/desafio-instagram-dio-main)
 - [M2.4 - Introdução ao JavaScript](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M2.4-Introdu%C3%A7%C3%A3o_JavaScript)
 - [M2.17 - Introdução Prática ao TypeScript](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M2.17-Introdu%C3%A7%C3%A3o_Pr%C3%A1tica_TypeScript)
+- [M3.12 - Como Criar um Front-end de um E-Commerce em Angular](https://github.com/roxoleo/dio-desafio-github-1st-repositorio/tree/main/M3.12-Como_Criar_Front-End_E-Commerce_Angular)
 
 
 ## Links Úteis
