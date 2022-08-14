@@ -9,12 +9,19 @@
 >- Criando um front-end de um e-commerce utilizando Angular e consumindo uma API para exibir as informações dos livros.
 >- [API E-commerce](https://github.com/naatscs/DIO-LiveCoding-Api-GETProducts)
 
+<br>
+<br>
 
----
-## *E-Commerce*
----
+##
+<div>
+   <img align="right" alt="RoxoLéo-Hi" height="200" width="400" src="https://github.com/roxoleo/dio-desafio-github-1st-repositorio/blob/main/M3.12-Como_Criar_Front-End_E-Commerce_Angular/e-commerce_angular.jpg">
+</div>
+
+# *E-Commerce*
 
 _This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4._
+
+<br>
 
 ## *Development server*
 
