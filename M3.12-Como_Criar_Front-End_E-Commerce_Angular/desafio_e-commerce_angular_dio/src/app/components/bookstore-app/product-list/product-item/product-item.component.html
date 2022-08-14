@@ -1,0 +1,24 @@
+<div class="card shadow-sm">
+
+    <!--Coletando a imagem que veio da consulta da API-->
+    <img class="bd-placeholder-img card-img-top" width="100%" src='{{ "assets/images/" + livro.img + ".jpg" }}'>
+
+    <div class="card-body text-light bg-dark">
+
+        <!--Informações do Livro-->
+        <p class="card-text text-center">Name: {{ livro.name | titlecase }}</p>
+        <p class="card-text text-center">Title: {{ livro.category | titlecase }}</p>
+        <p class="card-text text-center">Quantity: {{ livro.quantity }}</p>
+        <p class="card-text text-center">Price: {{ livro.price | currency:'BRL' }}</p>
+
+        <div class="d-flex justify-content-center align-items-center">
+
+            <div class="btn-group align-items-center">
+                <button type="button" class="btn btn-sm btn-primary">Comprar</button>
+                <button type="button" class="btn btn-sm btn-outline-secondary">Detalhes</button>
+            </div>
+
+        </div>
+
+    </div>
+</div>
